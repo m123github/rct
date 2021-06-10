@@ -1,0 +1,113 @@
+.loginbackground-image {
+    background-image: url("./images/bnkbck1.jpg"); 
+}
+.uniquebackground-image{
+    background-image: url("./images/digi-ban.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bannerimg{
+    background-image: url("./images/banner.jpg");
+    
+}
+.yearPicker .year-picker{
+    width: 182px !important;
+
+}
+.year-picker{
+    width: 189px !important;
+    height: 29px !important;
+}
+.accordion__button{
+
+    padding: 12px !important;
+}
+.accordion{
+    margin: 86px !important;
+}
+.accordion__button:before{
+    height: 7px !important;
+    width: 8px !important;
+    margin-right: 12px !important;
+    border-bottom: 2px solid red !important;
+}
+.MuiCheckbox-colorSecondary-347.MuiCheckbox-checked-343{
+
+    color: #1890ff !important;
+}
+.MuiRadio-colorSecondary-363.MuiRadio-checked-360{
+    color: #1890ff !important;   
+}
+.MuiCheckbox-colorSecondary.Mui-checked{
+    color: #1890ff !important;
+}
+.MuiRadio-colorSecondary.Mui-checked{
+    color: #1890ff !important;
+}
+.WithStyles\(ForwardRef\(TableCell\)\)-head-372{
+    background-color: #1890ff !important;
+}
+.WithStyles\(ForwardRef\(TableCell\)\)-body-373{
+    font-size:12px !important;
+}
+.MuiOutlinedInput-root{
+    padding-left: 5px !important;
+}
+.WithStyles\(ForwardRef\(TableCell\)\)-head-459{
+    background-color: #1890ff !important;
+}
+th{
+    background-color: #1890ff !important;
+}
+.WithStyles\(ForwardRef\(TableCell\)\)-body-496 {
+    font-size: 11px !important;
+}
+/* .MuiGrid-item-2{
+    padding:  0px !important;
+    padding-top: "0px";
+}
+.MuiGrid-spacing-xs-16-24 {
+    padding:  8px !important;
+} */
+.Dashboard-tableContainer-14 {
+    height: 320px;
+   
+}
+.Dashboard-tableContainer-14 .reportunique {
+    height: 273px;
+    width: 360px;
+    margin: 0 auto;
+    margin-top: 79px;
+    background-color: #ecece273;
+    position: relative;
+    /* box-shadow: 10px 10px 5px #cec8c8; */
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+}
+input {
+    height: 17px !important;
+    width: 171px !important;
+}
+.MuiInputBase-input{
+    border: 1px solid #ada6a6 !important;
+    padding: 0px 0 0px !important;
+}
+.MuiSelect-selectMenu{
+    border: none !important;
+}
+.MuiTableCell-root{
+    padding: 12px 12px 12px 12px !important;
+}
+tr:hover{
+    background-color: #4874ee2d !important;
+}
+.MuiMenuItem-root{
+    font-size: 12px !important;
+    min-height:27px !important;
+ }
+ .cd-accordion__label{
+    padding: 7px 0.25em !important
+    }
+    .MuiButton-root{
+        padding: 6px 10px !important;
+        font-size: 10px !important;
+    }

@@ -1,0 +1,141 @@
+.cd-accordion__label{
+    padding: 7px 1.25em !important;
+}
+
+.cd-accordion_background .cd-accordion__sub--l1 .cd-accordion__label {
+background-color: #000000 !important;
+}   
+
+cd-accordion__item cd-accordion__item--has-children{
+    background-color: #000000 !important;
+
+}
+.MuiTableCell-root-376 {
+    padding: 4px 26px 4px 24px !important;
+}
+
+
+ #second{
+    background-color: #85b4f7b5;
+}
+#second{
+
+    text-decoration: none !important;
+}
+.MuiInputBase-input-275{
+    padding: 0px 0 0px !important;
+}
+ .changewidth .MuiInputBase-root-265{
+
+    width:112px !important;
+}
+
+input{
+height: 30px !important;
+width:179px !important;
+}
+
+.WithStyles-TableCell--head-374 {
+    color: #fff;
+    background-color: #3c86f1 !important;
+}
+
+.MasterColor{
+    color:rgba(0, 0, 0, 0.54);
+}
+
+.MasterColor:hover{
+    color:#3f51b5;
+    cursor: pointer;
+}
+
+.parentInfoBox .infoBox {
+    display: none
+}
+
+.parentInfoBox:hover .infoBox {
+    display: block
+}
+
+.TransacColor{
+    color:rgba(0, 0, 0, 0.54);
+}
+
+.TransacColor:hover{
+    color:#3f51b5;
+    cursor: pointer;
+}
+
+.ReportColor{
+    color:rgba(0, 0, 0, 0.54);
+}
+
+.ReportColor:hover{
+    color:#3f51b5;
+    cursor: pointer;
+}
+
+.MuiOutlinedInput-root-289 {
+    position: static !important;
+}
+.MuiInputBase-input-275{
+    border: 1px solid #d6d1d1 !important;
+    box-sizing: border-box !important;
+}
+.MuiInputBase-root-265{
+    line-height: 2.0075em !important;
+}
+
+.MuiSelect-selectMenu-286{
+    width: 179px !important;    
+}
+.MuiInputBase-root-265{
+    width: 179px !important;
+}
+@media (min-width: 600px){
+
+.Dashboard-drawerPaperClose-10 {
+    width: 0px !important;
+}
+}
+
+.Dashboard-content-12 {
+   
+    padding: 14px !important;
+    
+}
+
+.smallDropdown{
+    width :75px !important;
+}
+.smallDropdown .MuiSelect-selectMenu-286 {
+    width: auto !important;
+}
+/* .increasewidth{
+    width: 260px !important;
+} */
+
+.increasewidth .MuiInputBase-input-275{
+    width: 260px !important;
+}
+.MuiSelect-selectMenu-286{
+    height: 30px !important;
+}
+.Dashboard-drawerPaper-9{
+    width: 277px !important;
+}
+.Dashboard-appBarShift-5{
+    width: calc(100% - 261px) !important;
+}
+.MuiInputBase-input-157{
+    padding: 0 0 7px !important;
+}
+.year-picker{
+    width: "180px !important";
+}
+.for_width{
+    width: "112px !important"
+}
+.MuiInputBase-root-265 {
+    line-height: 26px !important;
+}
